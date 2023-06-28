@@ -1,0 +1,6 @@
+﻿  Prototype.cpp
+C:\Users\user\source\repos\templates\PatternPrototype\PatternPrototype\Prototype.cpp(38,72): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\source\repos\templates\PatternPrototype\PatternPrototype\Prototype.cpp(39,72): warning C4305: аргумент: усечение из "double" в "float"
+  main.cpp
+  Создание кода...
+  PatternPrototype.vcxproj -> C:\Users\user\source\repos\templates\PatternPrototype\x64\Debug\PatternPrototype.exe
